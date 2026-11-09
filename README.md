@@ -8,6 +8,7 @@ I build products that remove unnecessary effort from complex business operations
 🌐 Portfolio & case studies: suryaprashanth.in · 💼 LinkedIn [[check this URL]] · 📄 Résumé (PDF)
 
 🧭 What I do
+
 Turn operational pain into product strategy. I start from the warehouse floor, the dock, or the plant, and work back to the roadmap.
 Lead discovery, prioritization, and delivery with customers, Customer Advisory Boards, Engineering, UX, QA, Services, and Support.
 Run a cross-functional team (Business Analysis, Development, QA) at iRely, and bring AI-assisted engineering practices into how we deliver.
