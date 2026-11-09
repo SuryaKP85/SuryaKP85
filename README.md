@@ -1,31 +1,121 @@
-Hi, I'm Surya Prashanth 👋
 
-Enterprise Product Manager · ERP · Manufacturing · Supply Chain · Warehouse Management Bangalore, India · Product Manager at iRely (Manufacturing ERP for Agriculture, Petroleum & Commodity Trading)
+# Hi, I'm Surya Prashanth 👋
 
-I build products that remove unnecessary effort from complex business operations.
+### Senior Product Manager | Enterprise SaaS | Manufacturing ERP | Supply Chain | AI
 
-16+ years in enterprise software — SCM, WMS, ERP, and global trade.
+📍 Bangalore, India
 
-🌐 Portfolio & case studies: suryaprashanth.in · 💼 LinkedIn [[check this URL]] · 📄 Résumé (PDF)
+I build enterprise software products that simplify complex business operations, improve operational efficiency, and deliver measurable customer value.
 
-🧭 What I do
+With **19+ years of enterprise software experience and 15+ years across Product Management, Product Ownership and Business Analysis**, I have worked across Manufacturing ERP, Supply Chain, Warehouse Management, Global Trade Compliance, Logistics and Enterprise SaaS.
 
-Turn operational pain into product strategy. I start from the warehouse floor, the dock, or the plant, and work back to the roadmap.
+🌐 [Portfolio](https://suryaprashanth.in) · 💼 [LinkedIn](https://linkedin.com/in/suryaprashanth) · 📄 [Resume](https://github.com/SuryaKP85/My-Professional-Portfolio/blob/main/public/KPSurya_Product_Manager.pdf)
 
-Lead discovery, prioritization, and delivery with customers, Customer Advisory Boards, Engineering, UX, QA, Services, and Support.
+---
 
-Run a cross-functional team (Business Analysis, Development, QA) at iRely, and bring AI-assisted engineering practices into how we deliver.
+## 🧭 What I Do
 
-Prototype to validate. The repos below are working prototypes I build with AI-assisted tools to test product ideas before engineering commits to them.
+- **Product Strategy & Roadmap:** Define product vision, strategy, roadmaps and execution priorities aligned with customer needs and business objectives.
+- **Product Discovery:** Work directly with enterprise customers, stakeholders and Customer Advisory Boards to identify problems and translate them into product opportunities.
+- **Enterprise SaaS:** Build and evolve complex ERP, Manufacturing, WMS and Supply Chain platforms.
+- **Cross-functional Leadership:** Lead and collaborate with Product, Business Analysis, Engineering, QA, UX, Customer Support and Implementation teams.
+- **Platform & Integration Strategy:** Drive API-first architecture, microservices, cloud modernization, ERP integrations and enterprise data flows.
+- **AI in Product Development:** Apply Generative AI and AI-assisted engineering tools to accelerate prototyping, development and delivery.
+- **Execution & Delivery:** Translate strategy into actionable backlogs, epics, user stories, acceptance criteria and measurable outcomes.
 
-🏆 Selected case studies
+## 🏆 Selected Product Achievements
 
-Case study	Company	My role	The problem	Outcome
+| Product Initiative | Organization | Role | Business Impact |
+|---|---|---|---|
+| **Warehouse Management Modernization** | Epicor | Lead Product Owner | Modernized legacy WMS into a cloud-based, mobile-first application. Achieved 70%+ customer adoption, 50% improvement in order throughput and 40% reduction in training time. |
+| **Supplier Integration Platform** | Epicor | Lead Product Owner | Established reusable integration patterns and configurable supplier data mappings to simplify supplier connectivity and ERP procurement workflows. |
+| **Container Visibility & Demurrage Management** | Amber Road | Product Owner | Delivered container visibility, free-day tracking and proactive Demurrage & Detention management capabilities to improve supply chain visibility. |
+| **Manufacturing & Inventory Management** | iRely | Product Manager | Own product strategy, roadmap and execution across Manufacturing and Inventory Control capabilities within the enterprise ERP platform. |
+| **AI-assisted Engineering** | iRely | Product Manager | Introduced AI-assisted engineering practices using Claude and Cursor, contributing to 50% faster bug-fix turnaround and 30% faster feature delivery. |
 
-Warehouse Management modernization	Epicor (Prophet 21 WMS)	Lead Product Owner	Legacy RF clients were platform-specific, slow to navigate, and hard to deploy on modern devices	Mobile-first responsive Web WMS. [[Add only metrics you can defend, e.g. throughput / training time, with the baseline and how it was measured]]
+## 🛠️ Product Prototypes & Hands-on Projects
 
-Supplier Integration platform	Epicor (Prophet 21 ERP)	Lead Product Owner	Every supplier onboarding meant custom mapping and heavy implementation effort	Reusable integration patterns and configurable mappings. [[e.g. onboarding time before → after, # suppliers live]]
+I believe product managers should understand technology beyond requirements and documentation. I use AI-assisted development and modern engineering tools to build working prototypes, validate product ideas and explore new user experiences.
 
-Container Visibility & D&D management	Amber Road (now e2open) [[confirm the acquirer name; your site says WiseTech Global]]	Product Owner	Customers found out about Demurrage & Detention charges only when the invoice arrived	Real-time container status, free-day countdowns, and proactive alerts. [[e.g. # customers, D&D cost avoided]]
+| Project | Description | Technology |
+|---|---|---|
+| [Supplier Integration with ERP](https://github.com/SuryaKP85/Supplier-Integration-with-ERP) | Supplier API connectivity, product matching, live pricing and inventory synchronization, purchase order creation and approval workflows. | React, TypeScript |
+| [Demurrage & Detention Management](https://github.com/SuryaKP85/Demurrage-Detention) | A platform exploring tariff rule engines, fee calculations, AI-based risk prediction and executive visibility for container detention and demurrage. | React, TypeScript, Node.js, Gemini |
+| [Smart WMS](https://github.com/SuryaKP85/Smart-WMS) | Android-first warehouse management application exploring mobile warehouse execution workflows. | Android |
+| [Food Safety Inspector App](https://github.com/SuryaKP85/Food-Safety-Inspector-s-App) | Mobile application for field inspections, route management, inspection checklists and reporting. | Kotlin, Jetpack Compose |
+| [Personal Finance Vault](https://github.com/SuryaKP85/Personal-Finance-Vault) | Personal finance application exploring financial tracking, Excel imports, net worth, loans, goals and forecasting. | React, TypeScript |
+| [Mobile App](https://github.com/SuryaKP85/Mobile-App) | Mobile application exploring workout tracking, nutrition and personal health record management. | Kotlin, Room, Gemini |
 
-iRely Manufacturing ERP	iRely	Product Manager.
+## 💼 Professional Experience
+
+```text
+
+2010 – 2015  GT Nexus (Infor)
+             Client Manager
+             Global Logistics, EDI & Supply Chain
+
+2015 – 2019  Amber Road (now part of WiseTech Global)
+             Product Owner
+             Global Trade Compliance, Logistics & Visibility
+
+2019 – 2025  Epicor Software
+             Lead Product Owner
+             ERP, Warehouse Management & Order Fulfillment
+
+2026 – Present  iRely
+                Product Manager
+                Manufacturing ERP & Inventory Management
+```
+
+## 🧩 Domain Expertise
+
+- **Manufacturing ERP:** Manufacturing workflows, inventory control, BOM, production planning and work orders.
+- **Warehouse Management:** Mobile WMS, warehouse execution, order fulfillment and inventory operations.
+- **Supply Chain:** Procurement, supplier integration, logistics and supply chain visibility.
+- **Global Trade:** Trade compliance, EDI, container tracking and Demurrage & Detention.
+- **Enterprise Integrations:** REST APIs, OAuth, SSO, microservices and cross-platform integrations.
+- **AI & Innovation:** Generative AI, LLM applications, AI-assisted engineering and rapid prototyping.
+
+## ⚙️ Technology & Tools
+
+**Product Management**
+- Product Strategy & Roadmaps
+- Product Discovery & Customer Research
+- RICE, MoSCoW & Value vs. Effort
+- Agile, Scrum & Backlog Management
+- Jira, Confluence, Aha! & Figma
+
+**AI & Development**
+- ChatGPT, Claude, Gemini & Cursor
+- AI-assisted Prototyping & Development
+- JavaScript, TypeScript & Angular
+- React & Kotlin
+- C#, .NET & SQL Server
+
+**Cloud & Architecture**
+- Microsoft Azure
+- SaaS & Microservices
+- REST APIs & System Integrations
+- OAuth & Single Sign-On
+- Enterprise ERP Architecture
+
+## 🎓 Certifications & Education
+
+- Certified Scrum Product Owner (CSPO®) – Scrum Alliance
+- Six Sigma Black Belt (CSSBB)
+- Microsoft Certified Professional
+- SAP R/3 SD 4.7
+- MBA – Visvesvaraya Technological University
+- BBA – Annamalai University
+
+---
+
+## 📫 Let's Connect
+
+I'm interested in connecting with product leaders, technology professionals and organizations building meaningful enterprise software products.
+
+- 💼 [LinkedIn](https://linkedin.com/in/suryaprashanth)
+- 🌐 [Portfolio & Case Studies](https://suryaprashanth.in)
+- 💻 [GitHub Repositories](https://github.com/SuryaKP85)
+
+**Building products. Solving real problems. Delivering measurable outcomes.**
