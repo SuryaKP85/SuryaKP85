@@ -1,4 +1,5 @@
 Hi, I'm Surya Prashanth 👋
+
 Enterprise Product Manager · ERP · Manufacturing · Supply Chain · Warehouse Management Bangalore, India · Product Manager at iRely (Manufacturing ERP for Agriculture, Petroleum & Commodity Trading)
 
 I build products that remove unnecessary effort from complex business operations.
